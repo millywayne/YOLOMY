@@ -2,8 +2,8 @@
     background-image: url("https://i.imgur.com/RSfWotN.jpg");
     background-size:cover;
     background-repeat:no-repeat;
-    height: 700px;
-    width: 1000px;
+    height: 300px;
+    width: 1500px
    
 }
 .button{
@@ -12,3 +12,11 @@
     margin-right: auto;
     text-align: right;
 }
+.fixed-footer{
+    width:100%;
+    position:fixed;
+    background-color:black;
+    padding :10px;
+    }
+
+
