@@ -6,17 +6,36 @@
     width: 1500px
    
 }
-.button{
+.card-footer{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width:75%;
+    background-color: white;
+    padding :10px;
+    text-align: center;
+    }
+p{
+    font-weight: bold;
+    text-align: center;
+    color:goldenrod;
+    font-size: large;
+}
+h1,h2{
+    text-align: center;
+    color:white;
+}
+.media{
+    align-items: center;
+}
+.container{
+    background-color: lightpink;
+}
+.navigation{
     text-align: right;
 }
-.fixed-footer{
-    width:100%;
-    position:fixed;
-    background-color:black;
-    padding :10px;
-    }
-
+.jumbotron{
+    color: mediumaquamarine;
+}
+  
 
